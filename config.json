@@ -1,12 +1,12 @@
 {
     "user":{
-        "username":"herobine.tk",
+        "username":"your_bot_user_name", // keep your bot user name here
         "pass":""
     },
 
     "server":{
-        "address":"herobine.tk",
-        "port":25565
+        "address":"here", //your server ip
+        "port": here // keep your server port if you have
     },
 
     "keyword":{
@@ -27,10 +27,10 @@
     },
 
     "message":{
-        "online":"Hello I'm a bot, tell me to sleep and I'll reconnect so you can sleep.",
-        "afk":"This is my bot, I'm not there I'll be back later.",
-        "sleep":"Alright, I'll be back !",
-        "greeting":"Hey, I'm a bot just tell me to sleep and I'll reconnect to let you pass the day.",
+        "online":"Hello I'm a bot, tell me to sleep and I'll reconnect so you can sleep.", // message when bot is online
+        "afk":"This is my bot, I'm not there I'll be back later.", // message when bot is afk
+        "sleep":"Alright, I'll be back !", // message when bot is back
+        "greeting":"Hey, I'm a bot just tell me to sleep and I'll reconnect to let you pass the day.", // message when bot is back
         "joinbw": "/bw join Squad"
     }
 }
