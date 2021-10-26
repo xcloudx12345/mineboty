@@ -10,3 +10,5 @@
 - for more support [join discord here](https://discord.gg/8bM62csKYd)
 - Team IC Discord - [Join Now](https://dsc.gg/team-ic)
 - Team IC Website - [Website](https://team-ic.ddns.net/)
+
+# update status 
