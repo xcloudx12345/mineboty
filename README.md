@@ -14,7 +14,7 @@
 # update status V3 rn
 
 - - - - - - - - - - - - - - - - - - - - - 
-- Day (it is used to make time into day)                          |
+- Day (it is used to make time into day)                          
 - Night (It is used to make time into night)
 - Midnight (It is used to make time into Midnight)                
 - Noon (It used to make time into Noon)
