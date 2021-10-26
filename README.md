@@ -13,7 +13,7 @@
 
 # update status V3 rn
 
-- 
+- - - - - - - - - - - - - - - - - - - - - 
 - Day (it is used to make time into day)
 - Night (It is used to make time into night)
 - Midnight (It is used to make time into Midnight)
@@ -27,3 +27,4 @@
 - New sleep (if it have bed in his neary it will sleep)
 - New wakeup (to make it wakeup from sleep)
 - New stop (to stop guard and pvp) 
+- - - - - - - - - - - - - - - - - - - - - - 
