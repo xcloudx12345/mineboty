@@ -1,4 +1,4 @@
-const {mineboty} = require("mineboty@1.0.1")
+const {mineboty} = require("mineboty")
 mineboty();
 
 
