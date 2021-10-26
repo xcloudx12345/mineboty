@@ -1,36 +1,6 @@
-{
-    "user":{
-        "username":"your_bot_user_name", // keep your bot user name here
-        "pass":""
-    },
-
-    "server":{
-        "address":"here", //your server ip
-        "port": here // keep your server port if you have
-    },
-
-    "keyword":{
-        "name" :
-        [
-            "katyty"
-        ],
-
-        "sleep" :
-        [
-            "sleep",
-            "Sleep"
-        ],
-       "joinbw" : [
- "joinbw",
- "joinbw"
-        ]
-    },
-
-    "message":{
-        "online":"Hello I'm a bot, tell me to sleep and I'll reconnect so you can sleep.", // message when bot is online
-        "afk":"This is my bot, I'm not there I'll be back later.", // message when bot is afk
-        "sleep":"Alright, I'll be back !", // message when bot is back
-        "greeting":"Hey, I'm a bot just tell me to sleep and I'll reconnect to let you pass the day.", // message when bot is back
-        "joinbw": "/bw join Squad"
-    }
-}
+{ 
+ "ip":"Your_server_ip_here",
+ "port": "Your_Server_port_here",
+ "name": "Your_bot_name_here",
+ "auto-night-skip":"false"
+ }
