@@ -14,9 +14,9 @@
 # update status V3 rn
 
 - - - - - - - - - - - - - - - - - - - - - 
-- Day (it is used to make time into day)
+- Day (it is used to make time into day)                          |
 - Night (It is used to make time into night)
-- Midnight (It is used to make time into Midnight)
+- Midnight (It is used to make time into Midnight)                
 - Noon (It used to make time into Noon)
 - fight me (To do pvp with cmd given person)
 - Th (To make weather thunder)
@@ -26,5 +26,5 @@
 - New guard (to guard the place)
 - New sleep (if it have bed in his neary it will sleep)
 - New wakeup (to make it wakeup from sleep)
-- New stop (to stop guard and pvp) 
-- - - - - - - - - - - - - - - - - - - - - - 
+- New stop (to stop guard and pvp)                                  
+- - - - - - - - - - - - - - - - - - - - - -                             
