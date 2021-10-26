@@ -1,6 +1,6 @@
 # about Team IC Mineboty 
 
-- Mineboty is a software to keep your aternos server 24/7 and also you can paatice pvp with mineboty
+- Mineboty is a Npm package to keep your aternos server 24/7 and also you can paatice pvp with mineboty & more
 
 
 # how to use mineboty
