@@ -1,7 +1,15 @@
 {
   "name": "mineboty-1",
-  "description": "minecraft practice pvp",
   "version": "1.0.0",
+  "description": "minecraft practice pvp",
+  "main": "index.js",
+    "scripts": {
+        "test": "node index.js",
+        "start": "node .",
+        "shell": "node.sh",
+        "mineboty .": "node ."
+    },
+ 
 "dependencies": {
     "mineboty": "^1.0.3"
     }
