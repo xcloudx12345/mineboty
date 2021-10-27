@@ -1,0 +1,8 @@
+{
+  "name": "mineboty-1",
+  "description": "minecraft practice pvp",
+  "version": "1.0.0",
+"dependencies": {
+    "mineboty": "^1.0.3"
+    }
+}
