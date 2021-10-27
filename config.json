@@ -1,7 +1,7 @@
 { 
- "ip":"Your_server_ip_here",
- "port": "Your_Server_port_here",
- "name": "Your_bot_name_here",
+ "ip":"katyty.aternos.me",
+ "port": "",
+ "name": "katu",
  "auto-night-skip":"false",
  "version": "1.8.9"
  }
