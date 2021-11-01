@@ -28,3 +28,18 @@
 - New wakeup (to make it wakeup from sleep)
 - New stop (to stop guard and pvp)                                  
 - - - - - - - - - - - - - - - - - - - - - -                             
+
+
+# command useage of DAY
+- enter in in game chat "DAY" 
+
+# command useage of NIGHT
+- enter in in game chat "DAY" 
+
+# command useage of NIGHT
+- enter in in game chat "MIDNITGHT" 
+
+# command useage of NIGHT
+- enter in in game chat "NOON" 
+
+# i will update read me soon i am busy -_-
