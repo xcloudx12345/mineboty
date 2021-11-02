@@ -29,17 +29,3 @@
 - New stop (to stop guard and pvp)                                  
 - - - - - - - - - - - - - - - - - - - - - -                             
 
-
-# command usage of DAY
-- enter in in game chat "DAY" 
-
-# command usage of NIGHT
-- enter in in game chat "DAY" 
-
-# command usage of NIGHT
-- enter in in game chat "MIDNITGHT" 
-
-# command usage of NIGHT
-- enter in in game chat "NOON" 
-
-# i will update read me soon i am busy -_-
