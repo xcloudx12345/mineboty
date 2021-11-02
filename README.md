@@ -11,7 +11,7 @@
 - Team IC Discord - [Join Now](https://dsc.gg/team-ic)
 - Team IC Website - [Website](https://team-ic.ddns.net/)
 
-# update status V3 rn
+# update status v4
 
 - - - - - - - - - - - - - - - - - - - - - 
 - Day (it is used to make time into day)                          
