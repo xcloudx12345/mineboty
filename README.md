@@ -13,19 +13,10 @@
 
 # update status v4
 
-- - - - - - - - - - - - - - - - - - - - - 
-- Day (it is used to make time into day)                          
-- Night (It is used to make time into night)
-- Midnight (It is used to make time into Midnight)                
-- Noon (It used to make time into Noon)
-- fight me (To do pvp with cmd given person)
-- Th (To make weather thunder)
-- rain (To make weather rain)
-- wclear (To make weather clear)
-- New !say <your_message> (it will say the message you have given)
-- New guard (to guard the place)
-- New sleep (if it have bed in his neary it will sleep)
-- New wakeup (to make it wakeup from sleep)
-- New stop (to stop guard and pvp)                                  
-- - - - - - - - - - - - - - - - - - - - - -                             
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- console chat (now you can chat or run commands in game from bot console)
+- login system
+- discord bot (now mineboty is connected with a discord bot)
+- bugs fix!                            
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -                             
 
