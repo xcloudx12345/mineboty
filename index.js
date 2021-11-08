@@ -1,7 +1,8 @@
 const {mineboty} = require("mineboty")
 mineboty();
 
-const express = require('express');
+//use it when u are in replit
+/*const express = require('express');
 const app = express();
 const port = 3000;
 
@@ -10,7 +11,8 @@ app.get('/', (req, res) => res.send('Hello World! bot is in game and working if 
 console.log(`this is made by team ic`);
 console.log(`star us in github`);
 
-app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`));
+app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`)); */
+
 
 
 //remove this if you are not using replit 
