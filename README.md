@@ -4,7 +4,7 @@ mineboty
 mineboty is an npm package to make minecraft bot in a minute 
 also you can connect to discord to do direct chat from discord to minecraft server
 it will help you to make best in pvp will also guard the place
-and some more update will also in v1.0.7
+and some more update will also in v1.0.6
 =====================
 
 # about Team IC Mineboty 
