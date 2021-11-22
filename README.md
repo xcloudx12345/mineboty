@@ -10,7 +10,7 @@ custom cmds coming soon
 
 # about Team IC Mineboty 
 
-- Mineboty is a Npm package to keep your aternos server 24/7 and also you can patice pvp with mineboty & more
+- Mineboty is a Npm package to keep your aternos server 24/7 and also you can pratice pvp with mineboty & more
 
 
 # how to use mineboty
