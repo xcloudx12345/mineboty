@@ -1,9 +1,7 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "play.termonsmp.tk",
+ "port": "",
+ "name": "noice",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "loginmsg": "keep (/register <your password> for first time then chainge it to /login <your password> "
 }
