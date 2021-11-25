@@ -1,13 +1,6 @@
 const {mineboty} = require("mineboty")
 mineboty();
 
-//use it when u are in replit
-/*const express = require('express');
-const app = express();
-const port = 3000;
-
-app.get('/', (req, res) => res.send('Hello World! bot is in game and working if it is not working pls join discord and ask for help team-IC discord link : https://discord.gg/5AuwhVycjv'));
-
 console.log(`
 ███████╗
 ██╔════╝
