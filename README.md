@@ -6,7 +6,6 @@ also you can connect to discord to do direct chat from discord to minecraft serv
 it will help you to make best in pvp will also guard the place
 
 MADE BY-TEAMIC
-custom cmds coming soon
 =====================
 
 # about Team IC Mineboty 
