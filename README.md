@@ -20,12 +20,11 @@ MADE BY-TEAMIC
 - Team IC Discord - [Join Now](https://dsc.gg/team-ic)
 - Team IC Website - [Website](https://team-ic.ddns.net/)
 
-# update status v4
+# update status v8
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-- console chat (now you can chat or run commands in game from bot console)
-- login system
-- discord bot (now mineboty is connected with a discord bot)
-- bugs fix!                            
+- added costem cmds 
+- - bugs fix
+- :)    
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -                             
 
