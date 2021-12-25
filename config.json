@@ -1,8 +1,6 @@
-{
- "ip": "pikachuuuu.aternos.me",
+{ 
+ "ip":"pikachuuuu.aternos.me",
  "port": "52575",
- "name": "Naruto",
- "auto-night-skip": "false",
- "version": "1.18.1",
- "loginmsg": "Hello mn"
-}
+ "name": "Obito",
+ "auto-night-skip":"false"
+ }
