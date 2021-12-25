@@ -3,7 +3,7 @@
  "port": "52575",
  "name": "Naruto",
  "auto-night-skip": "false",
- "token": "OTI0MDAxNDYyMDg0ODQ5Njg0.YcYNaw.OMWDbBCJY3up8cPS1nXIz2De_0g",
+ "token": TOKEN,
  "channelid": "924132407987290112"
  "loginmsg": "Hello mn"
 }
