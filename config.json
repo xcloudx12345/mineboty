@@ -3,7 +3,6 @@
  "port": "52575",
  "name": "Naruto",
  "auto-night-skip": "false",
- "token": TOKEN,
- "channelid": "924132407987290112"
+ "version": "1.18.1",
  "loginmsg": "Hello mn"
 }
